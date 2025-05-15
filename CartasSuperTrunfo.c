@@ -3,7 +3,7 @@
 
 int main(){
     //declarando as variáveis da primeira e segunda carta
-    char estado1[2];
+    char estado1[2]; 
     char codigo1[3];
     char nome1[50];
     int populacao1;
